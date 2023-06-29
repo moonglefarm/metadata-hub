@@ -42,10 +42,30 @@
     }
   ],
   "partners": [
-    "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/1.png",
-    "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/2.png",
-    "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/3.png",
-    "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/4.png"
+    {
+      "id": 1,
+      "title": "TotaShow",
+      "image": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/rotashow.png",
+      "imageActive": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/rotashowActive.png"
+    },
+    {
+      "id": 2,
+      "title": "waves",
+      "image": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/waves.png",
+      "imageActive": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/wavesActive.png"
+    },
+    {
+      "id": 3,
+      "title": "goldlines",
+      "image": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/goldlines.png",
+      "imageActive": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/goldlinesActive.png"
+    },
+    {
+      "id": 4,
+      "title": "velocity",
+      "image": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/velocity.png",
+      "imageActive": "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/partners/velocityActive.png"
+    }
   ],
   "banners": [
     "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/banners/1.png",
