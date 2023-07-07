@@ -85,5 +85,6 @@
     "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/bannersV2/10.png",
     "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/bannersV2/11.png",
     "https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/bannersV2/12.png"
-  ]
+  ],
+  "bgHeader":"https://raw.githubusercontent.com/moonglefarm/metadata-hub/main/homepage/media/bgHeader/bg_header.jpg"
 }
